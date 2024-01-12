@@ -2,6 +2,7 @@
 Adidas US Sales Analysis using Tableau
 
 Direct Link to the dashboard : https://public.tableau.com/app/profile/ashish.siwach/viz/AdidasUSSalesDashboard_17031647201130/SalesMethodDashboard#1
+Direct Link to the Data : https://www.kaggle.com/datasets/sakhawatalilarik/adidas-us-sales-data
 
 ## Key Insights
 1. Key Metrics
